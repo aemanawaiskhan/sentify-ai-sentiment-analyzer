@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables and local databases
+.env
+.env.*
+*.sqlite3
+db.sqlite3
+
+# React
+node_modules/
+build/
+
+# Operating system
+.DS_Store
+Thumbs.db
